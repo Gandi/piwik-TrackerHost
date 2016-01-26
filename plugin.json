@@ -1,0 +1,16 @@
+{
+  "name": "TrackerHost",
+  "version": "0.1.0",
+  "description": "Plugin to change the Hostname of the tracker code snippet.",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.15.0"
+  },
+  "authors": [
+    {
+      "name": "mose",
+      "email": "mose@gandi.net",
+      "homepage": ""
+    }
+  ]
+}
