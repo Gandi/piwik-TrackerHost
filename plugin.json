@@ -4,7 +4,7 @@
   "description": "Plugin to change the Hostname of the tracker code snippet.",
   "theme": false,
   "require": {
-    "piwik": ">=2.15.0"
+    "piwik": ">=2.15.0,<4.0.0-b1"
   },
   "authors": [
     {
